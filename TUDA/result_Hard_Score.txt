@@ -1,0 +1,16 @@
+pic:C:\Users\YuanBao\Desktop\1/groups_supply_singles/RGT-4318.bmp, score:56.133385
+pic:C:\Users\YuanBao\Desktop\1/groups_supply_singles/RGT-4376.bmp, score:59.095657
+pic:C:\Users\YuanBao\Desktop\1/groups_supply_singles/RGT-4480.bmp, score:62.66531
+pic:C:\Users\YuanBao\Desktop\1/groups_supply_singles/RGT-3204.bmp, score:61.938663
+pic:C:\Users\YuanBao\Desktop\1/groups_supply_singles/RGT-4318.bmp, score:56.133385
+pic:C:\Users\YuanBao\Desktop\1/groups_supply_singles/RGT-4376.bmp, score:59.095657
+pic:C:\Users\YuanBao\Desktop\1/groups_supply_singles/RGT-4480.bmp, score:62.66531
+pic:C:\Users\YuanBao\Desktop\1/groups_supply_singles/RGT-3204.bmp, score:61.938663
+pic:C:\Users\YuanBao\Desktop\1/groups_supply_singles/RGT-4318.bmp, score:56.133385
+pic:C:\Users\YuanBao\Desktop\1/groups_supply_singles/RGT-4376.bmp, score:59.095657
+pic:C:\Users\YuanBao\Desktop\1/groups_supply_singles/RGT-4480.bmp, score:62.66531
+pic:C:\Users\YuanBao\Desktop\1/groups_supply_singles/RGT-3204.bmp, score:61.938663
+pic:C:\Users\YuanBao\Desktop\1/groups_supply_singles/RGT-4318.bmp, score:56.133385
+pic:C:\Users\YuanBao\Desktop\1/groups_supply_singles/RGT-4376.bmp, score:59.095657
+pic:C:\Users\YuanBao\Desktop\1/groups_supply_singles/RGT-4480.bmp, score:62.66531
+pic:C:\Users\YuanBao\Desktop\1/groups_supply_singles/RGT-3204.bmp, score:61.938663
