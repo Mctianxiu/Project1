@@ -76,9 +76,9 @@ class TripleDomainDataset(Dataset):
                 return self.transform(img)
             
         return {
-            'x_s': load_16bit_tif(os.path.join(self.source_dir, self.filenames[index])),
-            'y_s': load_16bit_tif(os.path.join(self.target_dir, self.filenames[index])),
-            'x_r': load_16bit_tif(os.path.join(self.real_domain_dir, self.filenames[index]))
+            'x_s': load_16bit_tif(os.path.join(self.source_dir, self.filenames[index])),            # x_s---->source
+            'y_s': load_16bit_tif(os.path.join(self.target_dir, self.filenames[index])),            # y_s---->target
+            'x_r': load_16bit_tif(os.path.join(self.real_domain_dir, self.filenames[index]))        # x_r---->real_domain
         }
 #=========================
 # 定义域间自适应训练函数
