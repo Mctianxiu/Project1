@@ -4,11 +4,145 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbee7ff8-2ee9-434b-9f46-e06be9ce1ddc" name="Changes" comment="" />
+    <list default="true" id="dbee7ff8-2ee9-434b-9f46-e06be9ce1ddc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_10nclst_87254.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_11nclst_97004.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_12nclst_87597.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_13nclst_90406.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_14nclst_97865.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_15nclst_86332.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_16nclst_94191.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_17nclst_99928.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_18nclst_95897.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_19nclst_99030.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_1nclst_81276.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_20nclst_98819.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_21nclst_94913.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_22nclst_90042.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_23nclst_97729.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_24nclst_98659.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_25nclst_89800.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_26nclst_84197.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_27nclst_81121.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_28nclst_97988.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_29nclst_82148.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_2nclst_80708.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_30nclst_94861.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_31nclst_95738.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_32nclst_98255.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_33nclst_91968.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_34nclst_97665.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_35nclst_85097.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_36nclst_80428.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_37nclst_83590.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_38nclst_82530.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_39nclst_92606.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_3nclst_80288.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_40nclst_96063.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_41nclst_94494.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_42nclst_80440.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_43nclst_97267.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_44nclst_85805.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_45nclst_86173.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_46nclst_96833.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_47nclst_87473.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_48nclst_88469.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_49nclst_98634.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_4nclst_96343.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_50nclst_89859.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_51nclst_82873.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_52nclst_95187.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_53nclst_97954.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_54nclst_91041.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_55nclst_86155.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_56nclst_81466.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_57nclst_97026.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_58nclst_98140.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_59nclst_98754.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_5nclst_86544.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_60nclst_89982.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_61nclst_97720.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_62nclst_92276.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_63nclst_88422.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_64nclst_99442.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_6nclst_88056.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_7nclst_87015.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_8nclst_89890.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/cleanorg/cleanorg_s21297_9nclst_89137.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_10nclst_87254.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_11nclst_97004.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_12nclst_87597.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_13nclst_90406.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_14nclst_97865.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_15nclst_86332.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_16nclst_94191.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_17nclst_99928.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_18nclst_95897.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_19nclst_99030.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_1nclst_81276.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_20nclst_98819.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_21nclst_94913.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_22nclst_90042.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_23nclst_97729.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_24nclst_98659.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_25nclst_89800.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_26nclst_84197.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_27nclst_81121.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_28nclst_97988.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_29nclst_82148.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_2nclst_80708.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_30nclst_94861.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_31nclst_95738.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_32nclst_98255.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_33nclst_91968.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_34nclst_97665.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_35nclst_85097.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_36nclst_80428.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_37nclst_83590.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_38nclst_82530.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_39nclst_92606.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_3nclst_80288.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_40nclst_96063.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_41nclst_94494.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_42nclst_80440.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_43nclst_97267.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_44nclst_85805.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_45nclst_86173.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_46nclst_96833.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_47nclst_87473.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_48nclst_88469.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_49nclst_98634.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_4nclst_96343.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_50nclst_89859.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_51nclst_82873.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_52nclst_95187.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_53nclst_97954.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_54nclst_91041.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_55nclst_86155.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_56nclst_81466.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_57nclst_97026.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_58nclst_98140.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_59nclst_98754.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_5nclst_86544.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_60nclst_89982.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_61nclst_97720.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_62nclst_92276.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_63nclst_88422.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_64nclst_99442.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_6nclst_88056.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_7nclst_87015.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_8nclst_89890.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate_xs_ys/simulated_images/s21297/sim/noisy/noisy_s21297_9nclst_89137.tif" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -21,20 +155,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/WangZhengYong-Paper-3-Original-Paper/Handle_File&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "E:/WangZhengYong-Paper-3-Original-Paper/Handle_File",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Test_SingleGAN" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Method_test_single_D_easy_0.45_hard_0.55_output" />
@@ -89,6 +224,7 @@
       <workItem from="1742179807496" duration="2000" />
       <workItem from="1742274726391" duration="16000" />
       <workItem from="1742369741332" duration="2869000" />
+      <workItem from="1743753016961" duration="695000" />
     </task>
     <servers />
   </component>
